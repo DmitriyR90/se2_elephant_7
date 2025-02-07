@@ -73,7 +73,6 @@ a {
 }
 
 .site-link {
-  /* font-size: 20%; */
   font-weight: 400;
   text-decoration: underline;
   text-underline-position: unset;
@@ -111,7 +110,7 @@ a {
 .main-text__button:hover,
 .main-text__button:focus {
   scale: 1.02;
-  box-shadow: 0 0 0 1.5px hsla(43, 100%, 53%, 1);
+  box-shadow: 0 0 0 1.8px hsla(43, 100%, 53%, 1);
 }
 
 .rights {
@@ -258,7 +257,6 @@ a {
   }
 
   .main-text__button {
-    /* font-weight: 400; */
     width: 85.128%;
     font-size: clamp(6px, 0.34px + 8.2vw, 32.34px);
 
